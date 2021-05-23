@@ -7,5 +7,5 @@ $ cd yahoo-finance-save-data/web
 make file `.env.dev`</br>
 
 ```linux
-  docker-compose -f docker-compose.yml up -d --build
+$ docker-compose -f docker-compose.yml up -d --build
 ```
